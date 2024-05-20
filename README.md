@@ -1,7 +1,11 @@
-# Primer cambio a mi repositorio
+# Probando la creación de una rama secundaria para nuestro proyecto
 
-Y recordando las directrices de los archivos Markdown
+En esta ocación estamos regresando a nuestro primer commin y modificando nuestro archivo
 
-**Porque ya no los recordaba jaja**
+**Porque solo así aprenderemos**
 
-\*Estamos realizando las primeras modificaciones a los archivos raiz del proyecto
+1. crear la lista
+2. regresar al principio
+3. crear la nueva rama
+
+_Listo!!!_
